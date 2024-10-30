@@ -1,4 +1,4 @@
-# TAKI - Toolkit Artificial Kit Intelligence
+# PATrIK - Python Toolkit Artificial Kit Intelligence
 A Python toolkit for commong AI models
 
 ## Models
