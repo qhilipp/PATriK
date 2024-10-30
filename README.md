@@ -1,4 +1,4 @@
-# PATrIK - Python Toolkit Artificial Kit Intelligence
+# PATrIK - Python Tool Artificial Kit Intelligence
 A Python toolkit for commong AI models
 
 ## Models
