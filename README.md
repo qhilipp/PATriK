@@ -1,5 +1,5 @@
 # PATrIK - Python Tool Artificial Kit Intelligence
-A Python Toolkit for common AI models.
+This project is collection of AI models that are tought in the [CS165A class](https://sites.cs.ucsb.edu/~xyan/classes/CS165A-2024spring/syllabus.html) at [UCSB](https://www.ucsb.edu).
 
 ## Models
 - IR (Information Retrieval)
